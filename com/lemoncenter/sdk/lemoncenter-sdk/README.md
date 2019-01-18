@@ -1,6 +1,5 @@
 # maven
-My personal maven repository.
-
+	联盟中心，包含淘客，多多客，京挑客，等多平台SDK接口对接,使用方式
 # Usage
 
 pom.xml:
