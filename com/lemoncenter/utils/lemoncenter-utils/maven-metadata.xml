@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lemoncenter.utils</groupId>
+  <artifactId>lemoncenter-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190118020558</lastUpdated>
+  </versioning>
+</metadata>
