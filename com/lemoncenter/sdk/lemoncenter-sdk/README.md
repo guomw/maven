@@ -8,6 +8,6 @@ pom.xml:
 		<dependency>
 		    <groupId>com.lemoncenter.sdk</groupId>
 		    <artifactId>lemoncenter-sdk</artifactId>
-		    <version>1.0-SNAPSHOT</version>
+		    <version>1.0.2-SNAPSHOT</version>
 		</dependency>
     </dependencys>
