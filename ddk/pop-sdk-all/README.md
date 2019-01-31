@@ -8,6 +8,6 @@ pom.xml:
 		<dependency>
 		    <groupId>ddk</groupId>
 		    <artifactId>pop-sdk-all</artifactId>
-		    <version>0.0.7-all</version>
+		    <version>0.0.4-all</version>
 		</dependency>
     </dependencys>
