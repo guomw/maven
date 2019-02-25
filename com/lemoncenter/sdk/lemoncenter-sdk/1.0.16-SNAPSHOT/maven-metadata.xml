@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.lemoncenter.sdk</groupId>
+  <artifactId>lemoncenter-sdk</artifactId>
+  <version>1.0.16-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190225.061017</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190225061017</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.16-20190225.061017-1</value>
+        <updated>20190225061017</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.16-20190225.061017-1</value>
+        <updated>20190225061017</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
