@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.lemoncenter.sdk</groupId>
   <artifactId>lemoncenter-sdk</artifactId>
-  <version>1.0.25-SNAPSHOT</version>
+  <version>1.0.26-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190307.082135</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20190307.083234</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190307082135</lastUpdated>
+    <lastUpdated>20190307083234</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.25-20190307.082135-2</value>
-        <updated>20190307082135</updated>
+        <value>1.0.26-20190307.083234-1</value>
+        <updated>20190307083234</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.25-20190307.082135-2</value>
-        <updated>20190307082135</updated>
+        <value>1.0.26-20190307.083234-1</value>
+        <updated>20190307083234</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
