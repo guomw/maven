@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
 	<groupId>ddk</groupId>
-	<artifactId>pop-sdk-all</artifactId>
+	<artifactId>pop-sdk</artifactId>
 	<versioning>
-    <latest>0.0.7-all</latest>
-    <release>0.0.7-all</release>
+    <latest>1.0.0-all</latest>
+    <release>1.0.0-all</release>
     <versions>
       <version>0.0.5</version>
-<version>0.0.7-all</version>
+<version>1.0.0-all</version>
     </versions>
-    <lastUpdated>20190114205840</lastUpdated>
+    <lastUpdated>20190319205840</lastUpdated>
   </versioning>
 </metadata>
