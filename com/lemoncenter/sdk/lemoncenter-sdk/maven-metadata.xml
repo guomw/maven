@@ -49,7 +49,10 @@
       <version>1.0.38-SNAPSHOT</version>
       <version>1.0.39-SNAPSHOT</version>
       <version>1.0.40-SNAPSHOT</version>
+      <version>1.0.41-SNAPSHOT</version>
+      <version>1.0.42-SNAPSHOT</version>
+      <version>1.0.43-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190329080905</lastUpdated>
+    <lastUpdated>20190330022930</lastUpdated>
   </versioning>
 </metadata>
